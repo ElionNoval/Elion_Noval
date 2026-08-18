@@ -872,6 +872,22 @@
             font-weight: 600;
         }
 
+        .project-link {
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+            margin-top: 18px;
+            color: var(--ink);
+            font-size: 0.88rem;
+            font-weight: 700;
+            text-decoration: underline;
+            text-underline-offset: 3px;
+        }
+
+        .project-link:hover {
+            color: var(--coral);
+        }
+
         .testimonials-grid {
             display: grid;
             grid-template-columns: repeat(3, 1fr);
@@ -1921,28 +1937,23 @@
                     </div>
 
                     <div class="project-card reveal">
-                        <div class="project-img-wrap"
-                            style="background: linear-gradient(135deg, #fef3c7, #fde68a); display: flex; align-items: center; justify-content: center;">
-                            <div style="text-align: center; padding: 20px;">
-                                <div style="font-size: 4rem; margin-bottom: 12px;"></div>
-                                <div
-                                    style="font-family: 'Bricolage Grotesque', sans-serif; font-weight: 800; font-size: 1.5rem; color: var(--ink);">
-                                    Onboarding Flow</div>
-                                <div style="color: var(--ink-soft); font-size: 0.9rem; margin-top: 8px;">3 days → 15
-                                    minutes</div>
-                            </div>
+                        <div class="project-img-wrap">
+                            <img src="Lima.png" alt="Lima Closet storefront" loading="lazy"
+                                onerror="this.src='https://placehold.co/800x500/fdebd0/1a1a1a?text=Lima+Closet'">
                             <div class="project-number">04</div>
-                            <div class="project-tag">⚡ Workflow</div>
+                            <div class="project-tag">🛍️ Store</div>
                         </div>
                         <div class="project-info">
-                            <h3>Research Agency Onboarding</h3>
-                            <p>Automated the entire client onboarding flow — proposal to kickoff. Cut setup time from 3
-                                days to 15 minutes. Wild.</p>
+                            <h3>Lima Closet</h3>
+                            <p>Live storefront and brand experience for a real fashion boutique, focused on elegant
+                                product presentation and a smoother shopping journey.</p>
                             <div class="project-tags">
-                                <span class="tag">Workflow</span>
-                                <span class="tag">Automation</span>
-                                <span class="tag">Agency</span>
+                                <span class="tag">E-commerce</span>
+                                <span class="tag">Brand Site</span>
+                                <span class="tag">Vercel</span>
                             </div>
+                            <a class="project-link" href="https://lima-clozet-f.vercel.app/" target="_blank"
+                                rel="noopener noreferrer">Check it out →</a>
                         </div>
                     </div>
                 </div>
