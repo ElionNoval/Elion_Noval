@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-labelledby="title desc">
+  <title id="title">RetailFlow Dashboard</title>
+  <desc id="desc">An English inventory and orders dashboard mockup.</desc>
+  <rect width="800" height="500" fill="#fffaf0"/>
+  <rect width="800" height="64" fill="#1a1a1a"/>
+  <text x="32" y="40" fill="#fffaf0" font-family="Arial, sans-serif" font-size="24" font-weight="700">RetailFlow</text>
+  <text x="650" y="39" fill="#2dd4bf" font-family="Arial, sans-serif" font-size="15">Dashboard</text>
+  <rect x="28" y="92" width="230" height="112" rx="12" fill="#fdebd0" stroke="#1a1a1a" stroke-width="2"/>
+  <text x="48" y="124" fill="#6b6b6b" font-family="Arial, sans-serif" font-size="14">Total sales</text>
+  <text x="48" y="166" fill="#1a1a1a" font-family="Arial, sans-serif" font-size="32" font-weight="700">$24,860</text>
+  <rect x="284" y="92" width="230" height="112" rx="12" fill="#d9f7f1" stroke="#1a1a1a" stroke-width="2"/>
+  <text x="304" y="124" fill="#6b6b6b" font-family="Arial, sans-serif" font-size="14">Orders today</text>
+  <text x="304" y="166" fill="#1a1a1a" font-family="Arial, sans-serif" font-size="32" font-weight="700">184</text>
+  <rect x="540" y="92" width="232" height="112" rx="12" fill="#ffe0d8" stroke="#1a1a1a" stroke-width="2"/>
+  <text x="560" y="124" fill="#6b6b6b" font-family="Arial, sans-serif" font-size="14">Low stock alerts</text>
+  <text x="560" y="166" fill="#1a1a1a" font-family="Arial, sans-serif" font-size="32" font-weight="700">12</text>
+  <rect x="28" y="232" width="470" height="232" rx="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="2"/>
+  <text x="48" y="266" fill="#1a1a1a" font-family="Arial, sans-serif" font-size="18" font-weight="700">Weekly performance</text>
+  <path d="M52 420 L110 382 L168 396 L226 330 L284 350 L342 300 L400 324 L458 278" fill="none" stroke="#ff6b4a" stroke-width="6"/>
+  <path d="M52 420 L110 382 L168 396 L226 330 L284 350 L342 300 L400 324 L458 278 L458 438 L52 438 Z" fill="#ff6b4a" opacity=".12"/>
+  <line x1="52" y1="438" x2="458" y2="438" stroke="#6b6b6b"/>
+  <rect x="524" y="232" width="248" height="232" rx="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="2"/>
+  <text x="548" y="266" fill="#1a1a1a" font-family="Arial, sans-serif" font-size="18" font-weight="700">Recent orders</text>
+  <text x="548" y="310" fill="#6b6b6b" font-family="Arial, sans-serif" font-size="14">Order #1842</text><text x="710" y="310" fill="#14b8a6" font-family="Arial, sans-serif" font-size="14">Paid</text>
+  <text x="548" y="350" fill="#6b6b6b" font-family="Arial, sans-serif" font-size="14">Order #1841</text><text x="698" y="350" fill="#14b8a6" font-family="Arial, sans-serif" font-size="14">Packed</text>
+  <text x="548" y="390" fill="#6b6b6b" font-family="Arial, sans-serif" font-size="14">Order #1840</text><text x="698" y="390" fill="#ff6b4a" font-family="Arial, sans-serif" font-size="14">Pending</text>
+</svg>
