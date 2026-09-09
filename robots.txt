@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://elionnoval.github.io/Elion_Noval/sitemap.xml
+Sitemap: https://elionnoval.github.io/ElionNoval_Ventures/sitemap.xml
